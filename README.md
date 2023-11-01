@@ -52,4 +52,8 @@ Instructions to download these dependencies
   Here we going to import thr model only by using the sci-kit learn library.
   "from sklearn.svm import SVR"
 
+8.Random Forest
+    Here we going to import thr model only by using the sci-kit learn library.
+    "from sklearn.ensemble import RandomForestRegressor"
+
 
